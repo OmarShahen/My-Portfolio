@@ -54,6 +54,7 @@ h5 {
 
 p span{
   font-size: 1rem;
+  font-weight: bold;
 }
 .firebase-services{
   line-height: 0.5rem;
