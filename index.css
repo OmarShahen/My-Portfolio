@@ -51,3 +51,10 @@ h5 {
 .projects-part p {
   margin-bottom: 5px;
 }
+
+p span{
+  font-size: 0.7rem;
+}
+.firebase-services{
+  line-height: 0.5rem;
+}
